@@ -1,0 +1,12 @@
+
+footer {
+   
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 56px;
+}
+/* Nasconde il prezzo inizialmente */
+.prezzo-finale {
+    display: none;
+}
